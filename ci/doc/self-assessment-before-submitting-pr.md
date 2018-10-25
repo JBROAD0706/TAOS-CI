@@ -101,3 +101,4 @@ int main(int argc, char *argv[]){
 
 * Autotool-based hello-world project
 Please refer to https://www.yoctoproject.org/docs/2.1/sdk-manual/sdk-manual.html#autotools-based-projects.
+I got it
